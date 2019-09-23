@@ -1,3 +1,5 @@
+This is a fork of ACF qTranslate to fix this issue https://github.com/qtranslate/qtranslate-xt/issues/718
+
 === ACF qTranslate ===
 Contributors: funkjedi
 Tags: acf, advanced custom fields, qtranslate, add-on, admin
